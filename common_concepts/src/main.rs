@@ -45,4 +45,5 @@
                 // let b: [i32; 5] = [1, 3, 4, 6, 9]; // Explicitly annotating type and length
                 // let c = [3; 5] // Array contains 3 five times
             // }
-            
+           
+// 3.3 - Functions 
