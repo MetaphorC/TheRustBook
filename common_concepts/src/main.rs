@@ -47,3 +47,79 @@
             // }
            
 // 3.3 - Functions 
+
+ // fn main() {
+ //     println!("Hello, world!");
+ // 
+ //     another_function();
+ // }
+ // 
+ // fn another_function() {
+ //     println!("Another function.");
+ // }
+//
+// // 3.3.1 Function Parameters 
+//
+//     fn main () {
+//     another_function(5); // here 5 is the parameter 
+// }
+//
+// fn another_function(x: i32) {
+//     println!("The value of x is: {x}");
+// }
+//
+// // eg. 
+//         fn main() {
+//     print_labeled_measurment(5, 'h');
+// }
+//
+//         fn print_labeled_measurment(value: i32, unit_label: char) {
+//     println!("The measurment is: {value}{unit_label}");
+// }
+//
+//
+// // 3.3.2 Statements and Expressions 
+
+   //
+// eg.
+//         fn main() {
+//     let y = {
+//         let x = 3;
+//         x + 1
+//     };
+//     println!("The value of y is: {y}");
+// }
+//
+// // in the example above, "x + 1" is an expression, and it does not end in a semicolon. If it did,
+// that would make it a semicolon, and we do not want a stetement because a statement does not
+// return a value.
+//
+//
+// 3.3.3 Functions with Return values
+//
+//
+//         fn five() -> i32 {
+//     5
+// }
+//
+// fn main() {
+//     let x = five();
+//     println!("The value of x is: {x}");
+// }
+//
+// fn main() {
+//     let x = plus_one(5);
+//
+//     println!("The value of x is: {x}");
+// }
+//
+// fn plus_one(x: i32) -> i32 {
+//     x + 1
+// }
+//
+
+//
+//
+//
+//
+// Anddddd. this is it for chapter 3 of the The Rust Book
